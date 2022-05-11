@@ -1,0 +1,40 @@
+body, html {
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    background-color: gray;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.square {
+    width: 75px;
+    height: 75px;
+    background-color: blue;
+}
+
+.big-section {
+    padding: 50px;
+}
+
+.stripe {
+    height: 25vh;
+  }
+  
+  .stripe-1 {
+    background-color: #4A90E2;
+  }
+
+  .stripe-2 {
+      background-color: aquamarine;
+  }
+
+  .stripe-3 {
+      background-color: rgb(195, 248, 96);
+  }
+  
+  .stripe-4 {
+      background-color: rgba(244, 247, 99, 0.753);
+  }
